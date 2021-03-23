@@ -36,13 +36,15 @@ Específicos:
 
 **8.CONCLUSIONES** 
 
-Al conectar una carga en el devanado secundario se obtendrá una corriente y con el voltaje que ha sido inducido devanado se podrá calcular la potencia suministrada a la carga, esta potencia será igual a la entregada por la fuente en el primario, lo cual nos permite conocer la potencia del transformador. La potencia en un transformador nunca podrá incrementarse, por su dependencia del voltaje y corriente.
+- Al conectar una carga en el devanado secundario se obtendrá una corriente y con el voltaje que ha sido inducido devanado se podrá calcular la potencia suministrada a la carga, esta potencia será igual a la entregada por la fuente en el primario, lo cual nos permite conocer la potencia del transformador. La potencia en un transformador nunca podrá incrementarse, por su dependencia del voltaje y corriente.
 
-Al realizar una comparación de los valores de los componentes presentes en el primario y el secundario se observa que la potencia es igual en ambos independientemente de la relación de vueltas. Mientras que en la comparación entre la resistencia reflejada y la de carga sus valores difieren, una de las razones siendo la directa influencia de n.
+- Al realizar una comparación de los valores de los componentes presentes en el primario y el secundario se observa que la potencia es igual en ambos independientemente de la relación de vueltas. Mientras que en la comparación entre la resistencia reflejada y la de carga sus valores difieren, una de las razones siendo la directa influencia de n.
 
-Para diversas aplicaciones es necesario lograr una transferencia de potencia máxima, para lo cual la resistencia interna de la fuente en el primario debe ser igual a la resistencia reflejada. Esto se consigue manipulando la relación de vueltas. Una vez alterado n el transformador viene a ser uno igualador o de igualación de impedancia. 
+- Para diversas aplicaciones es necesario lograr una transferencia de potencia máxima, para lo cual la resistencia interna de la fuente en el primario debe ser igual a la resistencia reflejada. Esto se consigue manipulando la relación de vueltas. Una vez alterado n el transformador viene a ser uno igualador o de igualación de impedancia. 
 
 **9.BIBLIOGRAFÍAS**
+
+- Floyd, Thomas L., (2007). Principios de circuitos eléctricos. México. PEARSON EDUCACIÓN.
 
 **10.ANEXOS**
  
