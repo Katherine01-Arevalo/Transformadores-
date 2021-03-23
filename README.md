@@ -4,6 +4,8 @@
 
 **2. MARCO TEÓRICO**
 
+![caracteristicas](https://github.com/Katherine01-Arevalo/Transformadores-/blob/main/img/caracteristicas.PNG)
+
 **3.DIAGRAMAS**
 
 **4.EXPLICACIÓN**
