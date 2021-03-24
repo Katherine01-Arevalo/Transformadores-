@@ -31,6 +31,10 @@ Específicos:
 
 **3.DIAGRAMAS**
 
+Transformador básico
+
+![diagrama](https://github.com/Katherine01-Arevalo/Transformadores-/blob/main/img/diagrama.PNG)
+
 **4.EXPLICACIÓN**
 
 En el circuito   que se encuentra en la simulación cuenta con más vueltas en el devanado secundario que el secundario se observa como se llega a reducir el voltaje en el devanado secundario para el uso de transformadores se los realiza en   corriente alterna 
