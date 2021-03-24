@@ -22,7 +22,12 @@ Específicos:
 
 ![Cap_14_3](https://github.com/Katherine01-Arevalo/Transformadores-/blob/main/img/Cap_14_3.png)
 
-![caracteristicas](https://github.com/Katherine01-Arevalo/Transformadores-/blob/main/img/caracteristicas.PNG)
+![caracteristicas](https://github.com/Katherine01-Arevalo/Transformadores-/blob/main/img/no%20ideal.PNG)
+
+![transformadores](https://github.com/Katherine01-Arevalo/Transformadores-/blob/main/img/transformadores.PNG)
+
+![localizacion](https://github.com/Katherine01-Arevalo/Transformadores-/blob/main/img/localizacion.PNG)
+
 
 **3.DIAGRAMAS**
 
