@@ -32,10 +32,18 @@ Específicos:
 **3.DIAGRAMAS**
 
 **4.EXPLICACIÓN**
+En el circuito   que se encuentra en la simulación cuenta con más vueltas en el devanado secundario que el secundario se observa como se llega a reducir el voltaje en el devanado secundario para el uso de transformadores se los realiza en   corriente alterna 
 
 **5.APORTACIONES**
 
+![simulacion](https://github.com/Katherine01-Arevalo/Transformadores-/blob/main/img/transformador.PNG)
+
 **6.PREREQUISITOS**
+
+-	Tener en cuenta que voltaje es el que se está midiendo  uso de voltímetro  para corriente alterna 
+
+-	En la parte del transformador hacer uso de los datos de la relación de vueltas en coupling factor
+
 
 **7.MANUAL DE USUARIO**
 
