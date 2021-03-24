@@ -32,6 +32,7 @@ Específicos:
 **3.DIAGRAMAS**
 
 **4.EXPLICACIÓN**
+
 En el circuito   que se encuentra en la simulación cuenta con más vueltas en el devanado secundario que el secundario se observa como se llega a reducir el voltaje en el devanado secundario para el uso de transformadores se los realiza en   corriente alterna 
 
 **5.APORTACIONES**
