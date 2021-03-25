@@ -16,6 +16,8 @@ Específicos:
 
 **2. MARCO TEÓRICO**
 
+![.](https://github.com/Katherine01-Arevalo/Transformadores-/blob/main/img/Mapa_Inductanciamutua.png)
+
 ![Cap_14_1](https://github.com/Katherine01-Arevalo/Transformadores-/blob/main/img/Cap_14_1.png)
 
 ![Cap_14_2](https://github.com/Katherine01-Arevalo/Transformadores-/blob/main/img/Cap_14_2.png)
