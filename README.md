@@ -20,6 +20,8 @@ Específicos:
 
 ![.](https://github.com/Katherine01-Arevalo/Transformadores-/blob/main/img/Mapa_Transformador_b%C3%A1sico.jpg)
 
+![.](https://github.com/Katherine01-Arevalo/Transformadores-/blob/main/img/Mapa_Transformadores_Elevadores_Reductores.png)
+
 ![Cap_14_1](https://github.com/Katherine01-Arevalo/Transformadores-/blob/main/img/Cap_14_1.png)
 
 ![Cap_14_2](https://github.com/Katherine01-Arevalo/Transformadores-/blob/main/img/Cap_14_2.png)
